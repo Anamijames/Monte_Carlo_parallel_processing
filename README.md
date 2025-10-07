@@ -465,14 +465,3 @@ To extend the system:
 ## 📄 License
 
 This project is provided for educational and research purposes. See LICENSE file for details.
-
-## 🔗 References
-
-1. Hull, J. C. (2018). *Options, Futures, and Other Derivatives*. Pearson.
-2. Glasserman, P. (2003). *Monte Carlo Methods in Financial Engineering*. Springer.
-3. Heston, S. L. (1993). A closed-form solution for options with stochastic volatility. *Review of Financial Studies*.
-4. Merton, R. C. (1976). Option pricing when underlying stock returns are discontinuous. *Journal of Financial Economics*.
-
----
-
-**Built with ❤️ for high-performance financial computing**
