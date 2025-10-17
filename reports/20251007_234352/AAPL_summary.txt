@@ -1,0 +1,11 @@
+Asset: AAPL
+Data points: 1256
+Date range: 2020-10-07 00:00:00 to 2025-10-07 00:00:00
+Estimated annual drift: 0.1662
+Estimated annual volatility: 0.2845
+
+Risk Metrics:
+Initial price: 256.12
+VaR (95%): 28.82%
+Expected price after 1.0 years: 302.12
+Parallel speedup: 0.18x
